@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm / VSCode settings
+.idea/
+.vscode/
+
+# Python-specific files
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# TensorFlow / ML model files
+*.h5
+*.pb
+*.ckpt
+*.tflite
+*.keras
+saved_model/
+
+# Logs and temporary files
+*.log
+*.out
+*.tmp
+*.swp
+
+# Dataset folders or large data
+data/
+datasets/
+*.csv
+*.tsv
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Git Large File Storage metadata
+*.gitattributes
